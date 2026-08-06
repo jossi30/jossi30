@@ -1,77 +1,73 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jossi30.jossi30" />
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Yosief+G.+Hailay!;Welcome;+I'm+Yosief+G.+Hailay!;" />
-</h1>
+# Hi, I'm Joss 👋
 
-<h3 align="center">A passionate software developer</h3>
+### Full-Stack Developer · Freight & Logistics Background · Building `jpulse systems`
 
-<br/>
+I build web apps end-to-end — from dashboards that run real operations to
+landing pages that sell them. Based in Kampala, working remote.
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0985F2?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_SITE_HERE)
+
+</div>
+
+---
+
+### ⚡ About
+
+- 🚚 Came up through **freight & logistics** — I build software for problems I've actually worked inside, not just theoretical ones
+- 🛠️ Focused on **full-stack web development**: React, TypeScript, Node.js, Hono.js, Firebase, Vercel
+- 📈 Currently deep in self-directed learning — Linux fundamentals, system design, and shipping real products
+- 🏗️ Everything I ship is credited under **jpulse systems**
+
+---
+
+### 🧰 Tech Stack
 
 <div align="center">
- 
- 🔭 I’m currently working on **a Realstate app**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **anything [here](https://github.com/jossi30/jossi30/issues)**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono.js-E36002?style=flat-square&logo=hono&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-⚡ Fun fact **The first known computer game, "Spacewar!," was developed in 1962 by Steve Russell and his team at MIT. It was played on a PDP-1 computer.**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:yosiefghaylay@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/yosief-g-hailay-290277213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://x.com/jossi30_" target="_blank">
-     <img src="https://img.shields.io/badge/X(twitter)-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
- <hr/>
- 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,vscode,github,figma,tailwind,git,pycharm,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,flask,mongodb,ruby,java,mysql,rails,django" /><br>
-</div>
+---
 
-<br/>
-<hr/>
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[PXL](https://github.com/YOUR_USERNAME/pxl)** | AI-powered API testing & observability platform — my portfolio-defining full-stack build | Next.js · Hono.js · PostgreSQL/Drizzle · BullMQ · Clerk · Stripe |
+| **[LoadHub](https://github.com/YOUR_USERNAME/loadhub)** | Freight management dashboard — tracks loads, drivers, invoicing & settlements with real-time sync across dispatcher/driver/manager roles | React · TypeScript · Firebase |
+| **[Restaurant POS](https://github.com/YOUR_USERNAME/restaurant-pos)** | Point-of-sale system for full restaurant operations — orders, tables, billing, inventory & bookkeeping | TypeScript · React |
+| **[Xtra Clean Laundry](https://github.com/YOUR_USERNAME/xtra-clean-laundry)** | Dry-cleaning management app built for a client, from spec to build | React · TypeScript |
+| **Perimeter** | Recreated a full API-security SaaS landing page (hero, pricing, features) pixel-for-pixel from a reference design | HTML · CSS |
+
+> Replace the links above with your actual repo URLs once each project has one, or drop the link entirely for private/unfinished work.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jossi30/jossi30/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=jossi30&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jossi30&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossi30&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
+---
 
 <div align="center">
-<a href='' target='_blank'><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Check+out+My+Repos;" /></a>
-<a href=''><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+connect;" /></a></a>    
-</div>
 
-<br/>
+**Open to remote / contract work — reach out, I usually reply within 24 hours.**
+
+</div>
