@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=jpulse%20systems&fontSize=55&fontColor=00ff41&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Kampala&descAlignY=58&descSize=18&descColor=00ff41)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=jpulse%20systems&fontSize=55&fontColor=00ff41&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%2&descAlignY=58&descSize=18&descColor=00ff41)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;joss+%E2%80%94+full-stack+developer;building+jpulse+systems;freight+%2B+logistics+%E2%86%92+software;deploying+from+Kampala%2C+UG" alt="Typing SVG" />
 
