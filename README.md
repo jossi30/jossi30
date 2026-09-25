@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:302b63&height=220&section=header&text=Yosief+G.+Hailay&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI-Integrated%20Business%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:302b63&height=220&section=header&text=Yosief+G.+Hailay&fontSize=70&fontColor=2EA44F&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI-Integrated%20Business%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=I+build+software+that+reasons+over+data...;Not+a+bolt-on+feature+%E2%80%94+core+functionality.;Freight+%2F+Logistics+%C2%B7+POS+%C2%B7+AI+Copilots;jpulse+systems" alt="Typing SVG" /></a>
 
