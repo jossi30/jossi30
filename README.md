@@ -21,7 +21,6 @@
 - 🛠️ **5+ years** across freelance client delivery and in-house engineering — POS systems, travel & event portals, share-management systems, and nationwide logistics/database infrastructure
 - 🎓 Trained **Computer Scientist**, specialized in full-stack web development and systems engineering, with hands-on IT infrastructure and hardware diagnostics experience
 - 🧪 QA and API testing are built into my workflow, not bolted on afterward — reliability is a first-class requirement
-- 🚛 Background in **freight and logistics**, which shapes how I design operational software
 - 🤖 Currently pushing AI further into production business platforms — automation, copilots, and predictive tooling as core functionality, not a feature checkbox
 - 🎯 Long-term goal: be the technical lead clients trust to bring real AI integration to their systems, built on tested architecture rather than hype
 
