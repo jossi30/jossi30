@@ -132,7 +132,7 @@ POS, logistics, share-management, and more
 
 > 🐍 **Animated contribution snake** — add the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo and it will generate `github-contribution-grid-snake.svg`, animating your contribution graph being "eaten" by a snake every day. Then embed:
 > ```md
-> ![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+> ![snake](https://raw.githubusercontent.com/joss30/joss30/output/github-contribution-grid-snake-dark.svg)
 > ```
 
 ---
