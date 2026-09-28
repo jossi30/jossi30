@@ -6,16 +6,14 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00D9A5?style=for-the-badge&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-2c5364?style=for-the-badge&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/FOCUS-AI_INTEGRATION-00D9A5?style=for-the-badge&labelColor=0f2027" />
+[![Email](https://img.shields.io/badge/Email-00D9A5?style=for-the-badge&logo=gmail&logoColor=0f2027)](mailto:yosief.hailay@example.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jossi30)
+
 
 </div>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-00D9A5?style=for-the-badge&logo=gmail&logoColor=0f2027)](mailto:yosief.hailay@example.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jossi30)
 
 
 ## 🧭 Overview
