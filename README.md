@@ -11,6 +11,9 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosief.hailay@gmail.com)
+[![X](https://img.shields.io/badge/X-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/jossi30)
+
 </div>
 
 ---
@@ -157,7 +160,7 @@ Grinding EA FC · Chess · Football & NBA · Reviving old game consoles · Sci-f
 Open to freelance and collaborative work — especially projects where AI can genuinely extend a business platform, not just decorate it.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosief.hailay@gmail.com)
-[![X](https://img.shields.io/badge/X-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/jossi30)(#)
+[![X](https://img.shields.io/badge/X-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/jossi30)
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="profile views" />
 
