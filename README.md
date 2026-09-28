@@ -42,7 +42,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="assets/player-card.jpg" width="380" alt="Tech UT player card: 92 OVR. SYS 90, ALG 88, DB 92, ML 85, AI 87, Delivery 91"/>
+<img src="assets/player-card.png" width="380" alt="Tech UT player card: 92 OVR. SYS 90, ALG 88, DB 92, ML 85, AI 87, Delivery 91"/>
 
 <sub>Rated my own CS skills like an EA FC card. Algorithms keep me grounded, systems make me humble.</sub>
 
