@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA44F,100:00000&height=220&section=header&text=Yosief+G.+Hailay&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI-Integrated%20Business%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=JOSS&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI-Integrated%20Business%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=Hey+there%2C+welcome+to+my+profile+%F0%9F%91%8B;Full-Stack+Dev+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js;AI+Automation+%C2%B7+Odoo+%C2%B7+Firebase+%C2%B7+Python;Let%27s+build+something+great+together" alt="Typing SVG" /></a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jpulse_systems-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Odoo](https://img.shields.io/badge/Odoo-Consulting-714B67?style=for-the-badge&logo=odoo&logoColor=white)](#)
 [![Open to Collab](https://img.shields.io/badge/Open_to-Collaboration-2ea44f?style=for-the-badge)](#)
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosief.hailay@gmail.com)
-[![X](https://img.shields.io/badge/X-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/jossi30)
 
 </div>
 
@@ -23,6 +21,7 @@
 - 🛠️ **5+ years** across freelance client delivery and in-house engineering — POS systems, travel & event portals, share-management systems, and nationwide logistics/database infrastructure
 - 🎓 Trained **Computer Scientist**, specialized in full-stack web development and systems engineering, with hands-on IT infrastructure and hardware diagnostics experience
 - 🧪 QA and API testing are built into my workflow, not bolted on afterward — reliability is a first-class requirement
+- 🚛 Background in **freight and logistics**, which shapes how I design operational software
 - 🤖 Currently pushing AI further into production business platforms — automation, copilots, and predictive tooling as core functionality, not a feature checkbox
 - 🎯 Long-term goal: be the technical lead clients trust to bring real AI integration to their systems, built on tested architecture rather than hype
 
@@ -122,19 +121,18 @@ POS, logistics, share-management, and more
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME with your actual GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jossi30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jossi30&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossi30&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jossi30&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
 > 🐍 **Animated contribution snake** — add the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo and it will generate `github-contribution-grid-snake.svg`, animating your contribution graph being "eaten" by a snake every day. Then embed:
 > ```md
-> ![snake](https://raw.githubusercontent.com/joss30/joss30/output/github-contribution-grid-snake-dark.svg)
+> ![snake](https://raw.githubusercontent.com/jossi30/jossi30/output/github-contribution-grid-snake-dark.svg)
 > ```
 
 ---
@@ -159,10 +157,12 @@ Grinding EA FC · Chess · Football & NBA · Reviving old game consoles · Sci-f
 
 Open to freelance and collaborative work — especially projects where AI can genuinely extend a business platform, not just decorate it.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosief.hailay@gmail.com)
-[![X](https://img.shields.io/badge/X-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/jossi30)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jossi30)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jossi30)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=jossi30&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
