@@ -98,11 +98,7 @@ flowchart LR
 
 ## 🎮 Off the Clock: Side Quests
 
-<div align="center">
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=620&lines=Now+playing%3A+EA+FC+%F0%9F%8E%AE;Now+thinking%3A+the+next+chess+move+%E2%99%9F%EF%B8%8F;Now+watching%3A+football+%26+NBA+%E2%9A%BD%F0%9F%8F%80;Now+repairing%3A+a+very+old+console+%F0%9F%95%B9%EF%B8%8F" alt="Now playing" /></a>
-
-</div>
 
 <br/>
 
@@ -148,11 +144,6 @@ flowchart LR
   "Opened an old console just to see what's inside"
 ```
 
-<div align="center">
-
-<img src="https://api.memegen.link/images/drake/Fixing_bugs_after_launch/Testing_the_API_before_launch.png" width="240" alt="Drake meme about testing"/>
-
-</div>
 
 ---
 
