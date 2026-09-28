@@ -1,49 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=JOSS&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI-Integrated%20Business%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Joss&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Engineer%20%C2%B7%20AI-Integrated%20Business%20Systems&descAlignY=62&descSize=17" width="100%"/>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=Hey+there%2C+welcome+to+my+profile+%F0%9F%91%8B;Full-Stack+Dev+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js;AI+Automation+%C2%B7+Odoo+%C2%B7+Firebase+%C2%B7+Python;Let%27s+build+something+great+together" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=00D9A5&center=true&vCenter=true&width=700&lines=Welcome+aboard+%F0%9F%91%8B;I+build+software+that+reasons+over+your+data;Reliable+first.+Clever+second.;React+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+Python+%C2%B7+Odoo" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jpulse_systems-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Odoo](https://img.shields.io/badge/Odoo-Consulting-714B67?style=for-the-badge&logo=odoo&logoColor=white)](#)
-[![Open to Collab](https://img.shields.io/badge/Open_to-Collaboration-2ea44f?style=for-the-badge)](#)
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
-
-*Warning: this profile contains memes, strong opinions about QA, and unreasonable amounts of football talk.* ⚠️
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00D9A5?style=for-the-badge&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-2c5364?style=for-the-badge&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/FOCUS-AI_INTEGRATION-00D9A5?style=for-the-badge&labelColor=0f2027" />
 
 </div>
 
+<br/>
+
+## 🧭 Overview
+
+I'm a **Computer Scientist turned full-stack engineer** with 5+ years across freelance client delivery and in-house engineering. I've designed and deployed **POS systems, travel and event portals, share-management systems, and nationwide logistics and database infrastructure**, so I know how custom technology actually powers day-to-day operations.
+
+Every build ships with **hands-on API testing and QA**. Reliability is a requirement, not an afterthought.
+
+Now I'm pushing further: **AI as core functionality**, not a bolt-on. My goal is to be the technical lead clients trust to bring meaningful AI into their systems, on tested architecture instead of hype.
+
 ---
 
-## 👨‍💻 `whoami`
+## 🗺️ How I Work
 
-```ts
-const joss = {
-  role: "Full-Stack Engineer",
-  experience: "5+ years (freelance + in-house)",
-  trainedAs: "Computer Scientist",
-  superpower: "Turning messy business ops into clean, automated systems",
-  background: ["Freight & Logistics", "POS Systems", "IT Infrastructure"],
-  currentlyObsessedWith: "AI as core functionality, not a bolt-on",
-  fuel: ["EA FC", "Chess", "Football", "NBA", "Sci-Fi", "Retro consoles"],
-  status: "Open to collaborating ✅",
-};
+```mermaid
+flowchart LR
+    A["🔍 Understand<br/>the operation"] --> B["🧱 Design<br/>the architecture"]
+    B --> C["⚙️ Build<br/>full-stack"]
+    C --> D["🧪 Test<br/>APIs + QA"]
+    D --> E["🚀 Deploy"]
+    E --> F["🤖 Add the<br/>AI layer"]
+    F -. feedback .-> A
 ```
 
-- 🛠️ Designed and deployed **POS systems, travel and event portals, share-management systems, and nationwide logistics + database infrastructure**
-- 🧪 API testing and QA run alongside development, because reliability is a feature, not an afterthought
-- 🤖 Goal: be the technical lead clients trust to bring **real** AI into their systems, on tested architecture instead of hype
+---
+
+## 🃏 Player Card
 
 <div align="center">
 
-<img src="https://api.memegen.link/images/drake/Testing_after_the_client_finds_the_bug/API_testing_and_QA_from_day_one.png" width="300" alt="Drake meme: QA from day one"/>
-&nbsp;&nbsp;
-<img src="https://api.memegen.link/images/fine/Production_is_down/This_is_fine.png" width="300" alt="This is fine meme"/>
+<img src="https://img.shields.io/badge/OVR-89-FFD700?style=for-the-badge&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/POSITION-FS_(FULL--STACK)-00D9A5?style=for-the-badge&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/CARD-GOLD-FFD700?style=for-the-badge&labelColor=0f2027" />
 
-<sub>↑ my professional philosophy (left) vs. everyone else's Friday deploy (right)</sub>
+<img src="https://img.shields.io/badge/FRONTEND-90-00D9A5?style=flat-square&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/BACKEND-88-00D9A5?style=flat-square&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/QA-92-00D9A5?style=flat-square&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/AI-85-00D9A5?style=flat-square&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/OPS-87-00D9A5?style=flat-square&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/DELIVERY-91-00D9A5?style=flat-square&labelColor=0f2027" />
+
+<sub>Yes, I rated myself like an EA FC card. Chess and football keep me humble.</sub>
 
 </div>
 
@@ -53,173 +63,97 @@ const joss = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**🤖 Smart Automation**: workflow copilots that kill busywork
-
-**💬 AI Chat Assistants**: talk to your business data
-
-**🔮 Predictive Insights**: forecasting inside daily ops
-
-**🔍 Natural Language Search**: query systems like you'd ask a colleague
-
-</td>
-<td width="50%" valign="top">
-
-**📑 Auto-Generated Reports**: reports that write themselves
-
-**🚨 Anomaly Detection**: catches what shouldn't be there
-
-**♻️ Self-Optimizing Ops**: systems that tune themselves
-
-**🏗️ Custom Business Platforms**: POS, logistics, share-management
-
-</td>
+<td width="25%" align="center">🤖<br/><b>Smart Automation</b><br/><sub>Workflow copilots</sub></td>
+<td width="25%" align="center">💬<br/><b>AI Chat Assistants</b><br/><sub>Talk to your data</sub></td>
+<td width="25%" align="center">🔮<br/><b>Predictive Insights</b><br/><sub>Forecasting in daily ops</sub></td>
+<td width="25%" align="center">🔍<br/><b>Natural Language Search</b><br/><sub>Ask, don't filter</sub></td>
+</tr>
+<tr>
+<td align="center">📑<br/><b>Auto Reports</b><br/><sub>Reports that write themselves</sub></td>
+<td align="center">🚨<br/><b>Anomaly Detection</b><br/><sub>Catch what shouldn't be there</sub></td>
+<td align="center">♻️<br/><b>Self-Optimizing Ops</b><br/><sub>Systems that tune themselves</sub></td>
+<td align="center">🏗️<br/><b>Custom Platforms</b><br/><sub>POS, logistics, portals</sub></td>
 </tr>
 </table>
 
+---
+
+## 🧰 Toolbox
+
 <div align="center">
 
-<img src="https://api.memegen.link/images/gb/Storing_data/Displaying_data/Analyzing_data/Letting_AI_reason_over_it_and_do_the_busywork.png" width="320" alt="Galaxy brain meme: AI-integrated systems"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,rails,django,python,ruby,linux&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,docker,git,vercel&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=figma,postman&theme=dark" />
+
+<sub>Also: Odoo · Insomnia</sub>
 
 </div>
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Featured Work
 
-**Frontend**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-
-**Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+| | Project | What it does | Stack |
+|:-:|---|---|---|
+| 🚛 | **LoadHub** | Freight dashboard covering loads, drivers, invoicing, and settlements | React · TypeScript · Firebase |
+| 🛡️ | **Perimeter** | API security and auth SaaS landing page | React · TypeScript |
+| 📡 | **PXL** | AI-powered API testing and observability platform | Full-stack |
+| 🍽️ | **Restaurant POS** | Orders, tables, billing, inventory, and bookkeeping | Full-stack |
+| 🧺 | **Xtra Clean Laundry** | Dry-cleaning management app for a real client | Full-stack |
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🚛 **LoadHub** | Freight dashboard: loads, drivers, invoicing, settlements | React · TypeScript · Firebase |
-| 🛡️ **Perimeter** | API security and auth SaaS landing page | React · TypeScript |
-| 📡 **PXL** | AI-powered API testing and observability platform | Full-stack |
-| 🍽️ **Restaurant POS** | Orders, tables, billing, inventory, and bookkeeping | Full-stack |
-| 🧺 **Xtra Clean Laundry** | Dry-cleaning management app for a real client | Full-stack |
-
-<div align="center">
-
-<img src="https://api.memegen.link/images/success/Shipped_it_on_a_Friday/Nothing_broke_thanks_to_QA.png" width="280" alt="Success kid meme"/>
-
-</div>
-
----
-
-## 🎲 Click Around (Interactive Corner)
+## 🎲 Off the Clock
 
 <details>
-<summary><b>🧠 Fun facts about me (click to reveal)</b></summary>
+<summary><b>Click to see what I do when I'm not shipping</b></summary>
 
 <br/>
 
-- ⚽ I can talk football and NBA for hours, and have opinions about both
-- ♟️ Chess and EA FC are my competitive outlets. Yes, I take both seriously
-- 🎮 I fix and mod old game consoles just to see what's possible under the hood
-- 🚀 Sci-fi is basically my product roadmap inspiration
-- 🚛 I know freight and logistics from the inside, so the software I build actually fits how operations work
-
-</details>
-
-<details>
-<summary><b>🤔 Would you rather... (click for my answers)</b></summary>
-
-<br/>
-
-| Would you rather | My pick |
+| | |
 |---|---|
-| Ship without tests OR write docs nobody reads | Neither. Tests **and** docs. |
-| Tabs OR spaces | Whatever Prettier says |
-| Light mode OR dark mode | You already saw my banner |
-| Bolt-on AI OR built-in AI | Built-in, obviously 😉 |
+| 🎮 | Grinding **EA FC** |
+| ♟️ | Playing **chess** |
+| ⚽🏀 | Watching **football and NBA** |
+| 🕹️ | Fixing and modding **old game consoles** to see what's possible under the hood |
+| 🚀 | Reading and watching **sci-fi**. Imagined future tech scratches the same itch as my day job |
 
-</details>
-
-<details>
-<summary><b>🎯 Why hire me? (click for the 10-second pitch)</b></summary>
-
-<br/>
-
-1. **I understand the business side** (freight, logistics, POS, operations), not just the code
-2. **Reliability first**: API testing and QA are part of my build process
-3. **AI that's actually useful**: automation, copilots, and insights, not demo-ware
-4. **Full-stack range**: React and TypeScript on the front, Node, Python, Rails, Django, Odoo on the back
-5. **I keep learning**: standing still in tech means falling behind
+<div align="center">
+<img src="https://api.memegen.link/images/drake/Fixing_bugs_after_launch/Testing_the_API_before_launch.png" width="260" alt="Drake meme about testing"/>
+</div>
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jossi30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jossi30&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jossi30&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=00D9A5&icon_color=00D9A5" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jossi30&theme=github-dark-blue&hide_border=true&background=0f2027" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossi30&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jossi30&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jossi30&bg_color=0f2027&color=00D9A5&line=00D9A5&point=ffffff&hide_border=true&area=true" width="100%" />
 
 </div>
 
-> 🐍 **Snake mode:** add the free [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo and embed the output below to get an animated snake eating your contribution graph:
-> ```md
-> ![snake](https://raw.githubusercontent.com/jossi30/jossi30/output/github-contribution-grid-snake-dark.svg)
-> ```
-
 ---
 
 <div align="center">
 
-### 📬 Let's Build Something
+### 📬 Got an operation that needs smarter software?
 
-Got a messy operation that needs smart software? Let's talk.
+Currently integrating AI-driven capabilities into production systems for agency and enterprise clients. **Open to collaborating.**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-00D9A5?style=for-the-badge&logo=gmail&logoColor=0f2027)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jossi30)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jossi30)
 
-<img src="https://komarev.com/ghpvc/?username=jossi30&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="profile views" />
+<sub>Built by <b>jpulse systems</b></sub>
 
-<sub>⭐ Star a repo, say hi, or just steal my memes. I won't tell.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer" width="100%"/>
 
 </div>
