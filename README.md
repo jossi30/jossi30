@@ -12,18 +12,40 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
 
+*Warning: this profile contains memes, strong opinions about QA, and unreasonable amounts of football talk.* ⚠️
+
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 `whoami`
 
-- 🛠️ **5+ years** across freelance client delivery and in-house engineering — POS systems, travel & event portals, share-management systems, and nationwide logistics/database infrastructure
-- 🎓 Trained **Computer Scientist**, specialized in full-stack web development and systems engineering, with hands-on IT infrastructure and hardware diagnostics experience
-- 🧪 QA and API testing are built into my workflow, not bolted on afterward — reliability is a first-class requirement
-- 🚛 Background in **freight and logistics**, which shapes how I design operational software
-- 🤖 Currently pushing AI further into production business platforms — automation, copilots, and predictive tooling as core functionality, not a feature checkbox
-- 🎯 Long-term goal: be the technical lead clients trust to bring real AI integration to their systems, built on tested architecture rather than hype
+```ts
+const joss = {
+  role: "Full-Stack Engineer",
+  experience: "5+ years (freelance + in-house)",
+  trainedAs: "Computer Scientist",
+  superpower: "Turning messy business ops into clean, automated systems",
+  background: ["Freight & Logistics", "POS Systems", "IT Infrastructure"],
+  currentlyObsessedWith: "AI as core functionality, not a bolt-on",
+  fuel: ["EA FC", "Chess", "Football", "NBA", "Sci-Fi", "Retro consoles"],
+  status: "Open to collaborating ✅",
+};
+```
+
+- 🛠️ Designed and deployed **POS systems, travel and event portals, share-management systems, and nationwide logistics + database infrastructure**
+- 🧪 API testing and QA run alongside development, because reliability is a feature, not an afterthought
+- 🤖 Goal: be the technical lead clients trust to bring **real** AI into their systems, on tested architecture instead of hype
+
+<div align="center">
+
+<img src="https://api.memegen.link/images/drake/Testing_after_the_client_finds_the_bug/API_testing_and_QA_from_day_one.png" width="300" alt="Drake meme: QA from day one"/>
+&nbsp;&nbsp;
+<img src="https://api.memegen.link/images/fine/Production_is_down/This_is_fine.png" width="300" alt="This is fine meme"/>
+
+<sub>↑ my professional philosophy (left) vs. everyone else's Friday deploy (right)</sub>
+
+</div>
 
 ---
 
@@ -33,36 +55,34 @@
 <tr>
 <td width="50%" valign="top">
 
-**Smart Automation**
-Workflow copilots that remove busywork
+**🤖 Smart Automation**: workflow copilots that kill busywork
 
-**AI Chat Assistants**
-Conversational interfaces over business data
+**💬 AI Chat Assistants**: talk to your business data
 
-**Predictive Insights**
-Forecasting built into daily operations
+**🔮 Predictive Insights**: forecasting inside daily ops
 
-**Natural Language Search**
-Query systems the way you'd ask a person
+**🔍 Natural Language Search**: query systems like you'd ask a colleague
 
 </td>
 <td width="50%" valign="top">
 
-**Auto-Generated Reports**
-Reporting that writes itself
+**📑 Auto-Generated Reports**: reports that write themselves
 
-**Anomaly Detection**
-Catching what shouldn't be there
+**🚨 Anomaly Detection**: catches what shouldn't be there
 
-**Self-Optimizing Ops**
-Systems that tune themselves over time
+**♻️ Self-Optimizing Ops**: systems that tune themselves
 
-**Custom Business Platforms**
-POS, logistics, share-management, and more
+**🏗️ Custom Business Platforms**: POS, logistics, share-management
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://api.memegen.link/images/gb/Storing_data/Displaying_data/Analyzing_data/Letting_AI_reason_over_it_and_do_the_busywork.png" width="320" alt="Galaxy brain meme: AI-integrated systems"/>
+
+</div>
 
 ---
 
@@ -105,15 +125,63 @@ POS, logistics, share-management, and more
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **LoadHub** | Freight management dashboard — loads, drivers, invoicing, and settlements | React · TypeScript · Firebase |
-| **Perimeter** | API security / auth SaaS landing page | React · TypeScript |
-| **PXL** | AI-powered API testing and observability platform | Full-stack |
-| **Restaurant POS** | Orders, tables, billing, inventory, and bookkeeping for waiters, cashiers, and managers | Full-stack |
-| **Xtra Clean Laundry** | Dry-cleaning management app built for a live client | Full-stack |
+| 🚛 **LoadHub** | Freight dashboard: loads, drivers, invoicing, settlements | React · TypeScript · Firebase |
+| 🛡️ **Perimeter** | API security and auth SaaS landing page | React · TypeScript |
+| 📡 **PXL** | AI-powered API testing and observability platform | Full-stack |
+| 🍽️ **Restaurant POS** | Orders, tables, billing, inventory, and bookkeeping | Full-stack |
+| 🧺 **Xtra Clean Laundry** | Dry-cleaning management app for a real client | Full-stack |
 
-> 📌 *Pin your top repos on your GitHub profile so they render as cards right below this table.*
+<div align="center">
+
+<img src="https://api.memegen.link/images/success/Shipped_it_on_a_Friday/Nothing_broke_thanks_to_QA.png" width="280" alt="Success kid meme"/>
+
+</div>
+
+---
+
+## 🎲 Click Around (Interactive Corner)
+
+<details>
+<summary><b>🧠 Fun facts about me (click to reveal)</b></summary>
+
+<br/>
+
+- ⚽ I can talk football and NBA for hours, and have opinions about both
+- ♟️ Chess and EA FC are my competitive outlets. Yes, I take both seriously
+- 🎮 I fix and mod old game consoles just to see what's possible under the hood
+- 🚀 Sci-fi is basically my product roadmap inspiration
+- 🚛 I know freight and logistics from the inside, so the software I build actually fits how operations work
+
+</details>
+
+<details>
+<summary><b>🤔 Would you rather... (click for my answers)</b></summary>
+
+<br/>
+
+| Would you rather | My pick |
+|---|---|
+| Ship without tests OR write docs nobody reads | Neither. Tests **and** docs. |
+| Tabs OR spaces | Whatever Prettier says |
+| Light mode OR dark mode | You already saw my banner |
+| Bolt-on AI OR built-in AI | Built-in, obviously 😉 |
+
+</details>
+
+<details>
+<summary><b>🎯 Why hire me? (click for the 10-second pitch)</b></summary>
+
+<br/>
+
+1. **I understand the business side** (freight, logistics, POS, operations), not just the code
+2. **Reliability first**: API testing and QA are part of my build process
+3. **AI that's actually useful**: automation, copilots, and insights, not demo-ware
+4. **Full-stack range**: React and TypeScript on the front, Node, Python, Rails, Django, Odoo on the back
+5. **I keep learning**: standing still in tech means falling behind
+
+</details>
 
 ---
 
@@ -130,7 +198,7 @@ POS, logistics, share-management, and more
 
 </div>
 
-> 🐍 **Animated contribution snake** — add the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo and it will generate `github-contribution-grid-snake.svg`, animating your contribution graph being "eaten" by a snake every day. Then embed:
+> 🐍 **Snake mode:** add the free [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo and embed the output below to get an animated snake eating your contribution graph:
 > ```md
 > ![snake](https://raw.githubusercontent.com/jossi30/jossi30/output/github-contribution-grid-snake-dark.svg)
 > ```
@@ -138,24 +206,10 @@ POS, logistics, share-management, and more
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
-</div>
-
-## 🎮 Off the Clock
-
-Grinding EA FC · Chess · Football & NBA · Reviving old game consoles · Sci-fi
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px">
-</div>
-
----
-
-<div align="center">
 
 ### 📬 Let's Build Something
 
-Open to freelance and collaborative work — especially projects where AI can genuinely extend a business platform, not just decorate it.
+Got a messy operation that needs smart software? Let's talk.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
@@ -163,6 +217,8 @@ Open to freelance and collaborative work — especially projects where AI can ge
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jossi30)
 
 <img src="https://komarev.com/ghpvc/?username=jossi30&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="profile views" />
+
+<sub>⭐ Star a repo, say hi, or just steal my memes. I won't tell.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
