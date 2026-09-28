@@ -14,9 +14,13 @@
 
 <br/>
 
+[![Email](https://img.shields.io/badge/Email-00D9A5?style=for-the-badge&logo=gmail&logoColor=0f2027)](mailto:yosief.hailay@example.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jossi30)
+
+
 ## 🧭 Overview
 
-I'm a **Computer Scientist turned full-stack engineer** with 5+ years across freelance client delivery and in-house engineering. I've designed and deployed **POS systems, travel and event portals, share-management systems, and nationwide logistics and database infrastructure**, so I know how custom technology actually powers day-to-day operations.
+I'm a **full-stack developer** with expierence of client delivery and in-house engineering. I've designed and deployed **POS systems, travel and event portals, share-management systems, and nationwide logistics and database infrastructure**, so I know how custom technology actually powers day-to-day operations.
 
 Every build ships with **hands-on API testing and QA**. Reliability is a requirement, not an afterthought.
 
@@ -166,10 +170,8 @@ flowchart LR
 
 Currently integrating AI-driven capabilities into production systems for agency and enterprise clients. **Open to collaborating.**
 
-[![Email](https://img.shields.io/badge/Email-00D9A5?style=for-the-badge&logo=gmail&logoColor=0f2027)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-00D9A5?style=for-the-badge&logo=gmail&logoColor=0f2027)](mailto:yosief.hailay@example.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jossi30)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jossi30)
 
 <sub>Built by <b>jpulse systems</b></sub>
 
